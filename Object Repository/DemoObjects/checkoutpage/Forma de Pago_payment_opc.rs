@@ -6,15 +6,16 @@
    <elementGuidId>389c66a5-0e17-47b7-bcea-69dcbbd2c239</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='opc_paymentMethod']/h6</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#opc_paymentMethod > h6.undefined</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[@class='opc_paymentMethod_title liverpool']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>ec278856-0884-44b0-b827-a0940339329e</webElementGuid>
+      <webElementGuid>1039ba71-02ef-4cc2-942c-93dd8c8983d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>undefined</value>
-      <webElementGuid>a8eb306d-f923-4073-a002-35b91e8c8f88</webElementGuid>
+      <webElementGuid>61602a95-8d74-44dd-bb6c-dbfee66c5b38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2. Forma de Pago</value>
-      <webElementGuid>993376ce-c4aa-4eef-be96-a0b080654a89</webElementGuid>
+      <webElementGuid>4964e497-f133-4848-9640-c7baf7513fbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;opc_paymentMethod&quot;)/h6[@class=&quot;undefined&quot;]</value>
-      <webElementGuid>9312bc36-5e22-4087-b17b-f169f44f63dd</webElementGuid>
+      <webElementGuid>77d8aa29-f9b4-4af0-b51c-fb1804a95fbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='opc_paymentMethod']/h6</value>
-      <webElementGuid>e633cf2f-fb3c-4972-a6dc-a3414f8d6a66</webElementGuid>
+      <webElementGuid>687b72f2-3f80-4054-8d0e-914278f67fc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar'])[1]/following::h6[1]</value>
-      <webElementGuid>2682ab84-4125-4922-91ec-f467ea6ef31d</webElementGuid>
+      <webElementGuid>a811b26f-c6df-44c8-ad8d-ddb03a2d2b7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*9488'])[1]/preceding::h6[1]</value>
-      <webElementGuid>d19ee6f9-fe9e-4504-ae0d-8324cbedde23</webElementGuid>
+      <webElementGuid>41034b0d-bfcd-4d91-8e11-3505ed86ff5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='2. Forma de Pago']/parent::*</value>
-      <webElementGuid>d0223415-3019-4c00-8585-fb765fbb9b69</webElementGuid>
+      <webElementGuid>b6dc7a7f-4982-4b98-a04f-0830b1769831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/h6</value>
-      <webElementGuid>4620e8f0-b43e-41ef-b489-68673b97b883</webElementGuid>
+      <webElementGuid>ef5e6174-0d23-497b-a840-3ee617a5cc5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h6[(text() = '2. Forma de Pago' or . = '2. Forma de Pago')]</value>
-      <webElementGuid>048d529a-bf5b-4b8e-9b5c-e4f326fe5ff2</webElementGuid>
+      <webElementGuid>ec16f55c-103b-49df-a274-b674745307b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
