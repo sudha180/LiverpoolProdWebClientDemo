@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>productImage2_plp</name>
+   <tag></tag>
+   <elementGuidId>cc6b0a01-94ea-45c5-b061-8fec0616da8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='m-plp-card-container']//section//img)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>ff3a6660-9f32-4a7d-ab55-213c825c6c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1677462528700</value>
+      <webElementGuid>fe5dd8f3-51b7-4551-bb50-92a793f6b1ac</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

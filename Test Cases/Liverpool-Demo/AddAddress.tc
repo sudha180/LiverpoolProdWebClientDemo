@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91dff37b-73cf-42c3-b4c4-bc72f644f802</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1cfa28e-fb65-4d0e-ab44-eca86dbad844</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d1cfa28e-fb65-4d0e-ab44-eca86dbad844</id>
+      <masked>false</masked>
+      <name>RandomName</name>
+   </variable>
+</TestCaseEntity>

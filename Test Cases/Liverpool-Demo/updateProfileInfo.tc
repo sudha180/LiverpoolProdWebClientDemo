@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>updateProfileInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67aa2c01-fbd2-4e70-8eb4-b34f4b72c8ea</testCaseGuid>
+</TestCaseEntity>

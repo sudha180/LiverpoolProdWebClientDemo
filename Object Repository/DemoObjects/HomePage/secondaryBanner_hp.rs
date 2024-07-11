@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>secondaryBanner_hp</name>
+   <tag></tag>
+   <elementGuidId>744ba32f-7018-43fa-8892-89fecfcc741e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bannerNo-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ea5736bc-be86-4228-8080-ccfd9fc712b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a_banner_img lazyloaded</value>
+      <webElementGuid>1b8c8f4b-8534-424b-b7a1-e4b8e60288d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assetspwa.liverpool.com.mx/assets/digital/home/img/feb23/bpromo01a_160223patio.jpg</value>
+      <webElementGuid>58b9dcb9-ad1f-414b-bf02-6bf1a9e3fee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Patio y jardín | Liverpool</value>
+      <webElementGuid>b2230b35-eef2-4ffe-b14e-25b2a9dc294b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Patio y jardín | Liverpool</value>
+      <webElementGuid>01d476ed-858d-4cf2-9fb9-9090075b1dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bannerNo-2&quot;)/section[@class=&quot;o-container-banners&quot;]/div[@class=&quot;o-container-promos&quot;]/div[@class=&quot;m-banners&quot;]/a[@class=&quot;m-mainBanner__link&quot;]/picture[1]/img[@class=&quot;a_banner_img lazyloaded&quot;]</value>
+      <webElementGuid>d1628217-7d83-4639-b4c5-4923e36bb56a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bannerNo-2']/section[4]/div/div/a/picture/img</value>
+      <webElementGuid>0a0100d6-f263-4cd0-a8ef-d14878f85c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Patio y jardín | Liverpool']</value>
+      <webElementGuid>1ef8696a-ae01-4b1b-8dc7-3ac450e71c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div/a/picture/img</value>
+      <webElementGuid>4cde4956-58f0-4788-8ff2-eadcb7d4bccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assetspwa.liverpool.com.mx/assets/digital/home/img/feb23/bpromo01a_160223patio.jpg' and @alt = 'Patio y jardín | Liverpool' and @title = 'Patio y jardín | Liverpool']</value>
+      <webElementGuid>7f81e8fc-30c3-4595-a330-44ddf166a45b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Comprar_cart</name>
+   <tag></tag>
+   <elementGuidId>58533704-06ed-42c4-a833-e36b52fe040e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[(text() = 'Comprar' or . = 'Comprar')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-btn.a-btn--primary.a-product__buttonBuy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>90d31bbb-bbd3-41a2-8266-e9a640e24009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-btn a-btn--primary a-product__buttonBuy</value>
+      <webElementGuid>25f5291a-c117-4a87-92fd-63382bf87b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Comprar</value>
+      <webElementGuid>177ef074-3069-4397-a4af-c3793b8c36c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;cart-alert-top&quot;]/section[@class=&quot;container-fluid&quot;]/div[@class=&quot;rowE&quot;]/div[@class=&quot;t_myBag_cards-right col-xl-4 col-sm-4 col-md-4 col-lg-4false&quot;]/div[@class=&quot;rowE&quot;]/div[@class=&quot;t-myBag__breakdownExpenses col-xl-12 col-sm-12 col-md-12 col-lg-12&quot;]/div[@class=&quot;t-myBag__rigthTab&quot;]/div[@class=&quot;t-myBag__toBuy&quot;]/button[@class=&quot;a-btn a-btn--primary a-product__buttonBuy&quot;]</value>
+      <webElementGuid>4e2858e3-240d-4738-b83f-ea76584adb4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/div[2]/div/div/div[3]/div/button</value>
+      <webElementGuid>d658fa96-36f4-424f-94bd-9092b2884851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar'])[2]/following::button[1]</value>
+      <webElementGuid>5caeca7d-ece5-4347-be74-9f50c31b448d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mover a Wishlist'])[2]/following::button[1]</value>
+      <webElementGuid>3ae30ac6-27c7-497f-bb87-6dfbf101a1b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complementa tu compra'])[1]/preceding::button[1]</value>
+      <webElementGuid>2d77fe1e-d6c1-4428-8bbf-6a1b1d83cf7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seguir Comprando'])[1]/preceding::button[4]</value>
+      <webElementGuid>b870789a-5417-4e0c-a0ef-8e10ceaad347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Comprar']/parent::*</value>
+      <webElementGuid>b89c6f29-37ef-49ef-9d8d-5c6f044bdb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>8ef89d40-6e8b-4c48-ad42-4b67e4989626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Comprar' or . = 'Comprar')]</value>
+      <webElementGuid>74764e8c-6acb-4e44-bc98-1556407c3f85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

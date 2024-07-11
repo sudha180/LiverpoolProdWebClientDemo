@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>primaryBanner_hp</name>
+   <tag></tag>
+   <elementGuidId>6bcdf844-935f-4785-8a39-5a93b96e1a35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.a_banner_img.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bannerNo-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c75fbadb-6ab0-41f2-95f5-b3ed3736935f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a_banner_img lazyloaded</value>
+      <webElementGuid>3fb7fd46-005c-4249-ade3-4ecb491c436c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assetspwa.liverpool.com.mx/assets/digital/home/img/feb23/bc_160223mue.jpg</value>
+      <webElementGuid>6ac1e477-d312-4e2e-ab41-724ed28dc45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Muebles | Liverpool</value>
+      <webElementGuid>814dec5e-6534-4be0-a12a-8292b504e1e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Muebles | Liverpool</value>
+      <webElementGuid>75e0b985-fbd1-4ae7-b9f6-19a0a791e2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bannerNo-1&quot;)/section[1]/div[@class=&quot;o-mainBanner&quot;]/a[1]/picture[@class=&quot;img-zoom&quot;]/img[@class=&quot;a_banner_img lazyloaded&quot;]</value>
+      <webElementGuid>9403af50-716b-4380-bf7e-195bcc18d9bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bannerNo-1']/section/div/a/picture/img</value>
+      <webElementGuid>16e9dc20-ae64-4c13-8099-e62fcfc0399a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Muebles | Liverpool']</value>
+      <webElementGuid>fb100601-fc74-42e5-ac8e-839198e04822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//picture/img</value>
+      <webElementGuid>efa88515-015c-4136-94a9-b5079c27b0d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assetspwa.liverpool.com.mx/assets/digital/home/img/feb23/bc_160223mue.jpg' and @alt = 'Muebles | Liverpool' and @title = 'Muebles | Liverpool']</value>
+      <webElementGuid>4108a9b6-8693-4809-92fb-f7c9bda203d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

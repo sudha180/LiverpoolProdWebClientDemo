@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>productName_cart</name>
+   <tag></tag>
+   <elementGuidId>a5139813-c0a8-4b0f-947a-79a399a6df09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.a-inlineElement.a-inlineElement--enphasis</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='o-myBag__description']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c0f4de2e-607a-40b0-9e8a-eb94167340ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-inlineElement a-inlineElement--enphasis</value>
+      <webElementGuid>d5288304-a060-4403-a79f-7622702ca7b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zapato derby Dockers para hombre</value>
+      <webElementGuid>eb81c5b6-60de-476e-909b-3c2272a3bef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1111964218&quot;)/div[@class=&quot;o-myBag__column o-myBag__column--triple&quot;]/div[@class=&quot;o-myBag__description&quot;]/span[1]/p[@class=&quot;a-inlineElement a-inlineElement--enphasis&quot;]</value>
+      <webElementGuid>feb60617-4d49-4070-b380-6574f8ef4c95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1111964218']/div/div[2]/span/p</value>
+      <webElementGuid>f319621e-19a4-49fe-a49e-291d2d3a628d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::p[1]</value>
+      <webElementGuid>b2c32e45-6615-4038-9c93-123e1dbb0f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad'])[1]/following::p[1]</value>
+      <webElementGuid>cb5b6258-3e2f-4d95-9c64-0d41f1e69b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega estimada:'])[1]/preceding::p[6]</value>
+      <webElementGuid>1552ea67-9b7c-420b-a066-76115c278c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más opciones de entrega'])[1]/preceding::p[6]</value>
+      <webElementGuid>8c5026e7-3936-4dd2-8ada-9a77881861d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zapato derby Dockers para hombre']/parent::*</value>
+      <webElementGuid>325030d7-e655-4b5f-8749-ac49e9df34f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>137822ec-ac98-46f7-a1ab-6da27e06a94c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Zapato derby Dockers para hombre' or . = 'Zapato derby Dockers para hombre')]</value>
+      <webElementGuid>acf6cd78-a637-4a90-bacf-6716c5a0163f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

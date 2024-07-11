@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Service-LoginWithDifferentChannels</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c2c886f-66d8-4e9c-a803-ac9184fa2df4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8de2d34-94c5-41eb-8885-0856bd3b5b5c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c8de2d34-94c5-41eb-8885-0856bd3b5b5c</id>
+      <masked>false</masked>
+      <name>channelData</name>
+   </variable>
+</TestCaseEntity>

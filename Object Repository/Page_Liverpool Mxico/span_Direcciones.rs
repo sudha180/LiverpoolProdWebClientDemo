@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Direcciones</name>
+   <tag></tag>
+   <elementGuidId>0190fc60-0c83-40b3-b4bd-8debba409452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/div/div/ul/li[4]/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Direcciones&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>64ce5e8a-f933-413f-8c9d-4442421834c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Direcciones</value>
+      <webElementGuid>d43227d3-7521-42e4-917e-537c18184f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container-fluid o-main-container p-0 containerTemplate d-none d-lg-block&quot;]/div[@class=&quot;container o-container__secondary&quot;]/div[@class=&quot;row m-row-bootstrap container-infoAccount&quot;]/div[@class=&quot;asideAcount d-none d-lg-flex align-items-start flex-column&quot;]/div[@class=&quot;d-flex flex-column  justify-content-between w-100&quot;]/ul[@class=&quot;container-items-menu d-none d-lg-block&quot;]/li[@class=&quot;container-item&quot;]/div[@class=&quot;item-menu-container&quot;]/div[@class=&quot;action-sidebaner-open&quot;]/div[1]/span[1]</value>
+      <webElementGuid>012651ac-c523-4b99-9114-cc060d5ac684</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/div/div/ul/li[4]/div/div[2]/div/span</value>
+      <webElementGuid>6bc4ba53-d983-4db5-b26f-3475a1ba98f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi cartera'])[1]/following::span[1]</value>
+      <webElementGuid>59fe87be-7c98-4947-8cf2-824419091c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar contraseña'])[1]/following::span[2]</value>
+      <webElementGuid>7b333c9e-faa2-44ca-8147-ad8e69dae493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis compras'])[1]/preceding::span[1]</value>
+      <webElementGuid>510241a0-be0b-4e25-844a-e38a20bfbf97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[3]/preceding::span[2]</value>
+      <webElementGuid>2e244f41-215a-4170-8026-c74d461abab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Direcciones']/parent::*</value>
+      <webElementGuid>f5fe5941-dd87-4615-8b30-f275fb5c09c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div[2]/div/span</value>
+      <webElementGuid>8c54fb0e-be53-4253-828b-73c931a24005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Direcciones' or . = 'Direcciones')]</value>
+      <webElementGuid>48b76d5f-f3e3-4ae8-a66f-9506933ba13b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
