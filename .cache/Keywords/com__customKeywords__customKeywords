@@ -1,18 +1,16 @@
 {
-  "keywordFileContentHash": "48D698BFCAA0F52FAD0B2BE7502E9122",
+  "keywordFileContentHash": "EA8BC30E2AD7BD3C715E534C4176B0D5",
   "keywordClasses": [
     {
       "name": "com.customKeywords.myKeywords",
       "keywordMethods": [
         {
           "name": "generateRandomEmail",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "refreshBrowser",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "clickElement",
@@ -30,8 +28,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "clickElementWithoutScroll",
@@ -49,8 +46,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "getHtmlTableRows",
@@ -81,23 +77,19 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "scrollWindow",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "scrollToTop",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "highlightElement1",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "highlightElement",
@@ -115,8 +107,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "verifyElementPresentKeyword",
@@ -134,13 +125,11 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "randomString",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "removeDollar",
@@ -158,11 +147,10 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

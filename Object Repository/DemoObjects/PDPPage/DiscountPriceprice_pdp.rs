@@ -6,15 +6,15 @@
    <elementGuidId>b38d83ec-3212-418e-a41d-62d78f92da3e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//p[@class='a-product__paragraphDiscountPrice m-0 d-inline ']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//p[@class='a-product__paragraphDiscountPrice m-0 d-inline']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>0480b035-ef02-47e2-8cfd-74e0325405d5</webElementGuid>
+      <webElementGuid>1ff63f45-b6ee-4e59-aa4e-d955b37d2c66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-product__paragraphDiscountPrice m-0 d-inline </value>
-      <webElementGuid>add57fb1-06ab-4b54-b6f6-a3d446567467</webElementGuid>
+      <webElementGuid>935e65fd-0e15-4d0b-9514-68605924e4cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>$1,19920</value>
-      <webElementGuid>ddbd6016-0575-4633-9e3a-84f0a27cb01f</webElementGuid>
+      <webElementGuid>e7c5b0ef-f12c-4d47-a86a-87a2a411387e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/section[@class=&quot;o-product__detail&quot;]/div[@class=&quot;container o-product__mainContainer&quot;]/main[1]/div[@class=&quot;o-product__description&quot;]/div[@class=&quot;m-product__price-dw-promotion&quot;]/div[@class=&quot;m-product__price--collection&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/p[@class=&quot;a-product__paragraphDiscountPrice m-0 d-inline&quot;]</value>
-      <webElementGuid>f94398ed-cb1c-489f-9de2-d2540b880b0e</webElementGuid>
+      <webElementGuid>e8dee41a-192e-4666-87ce-24c410373645</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/section/div/main/div[2]/div[3]/div/div/div/p[2]</value>
-      <webElementGuid>fd4c3525-135b-4877-bc84-6d326896f504</webElementGuid>
+      <webElementGuid>7697af20-3d8f-4987-85e5-a06e5c6a4ff7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver disponibilidad en tienda'])[1]/following::p[2]</value>
-      <webElementGuid>948b7ab5-d61d-45f4-9bcc-da7b239172b0</webElementGuid>
+      <webElementGuid>37f655f4-e448-4397-b04b-246aeee68710</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Escribe una opinión'])[1]/following::p[2]</value>
-      <webElementGuid>a37a76b1-fdfa-484b-a2e6-2fb3b6997c53</webElementGuid>
+      <webElementGuid>2c509cbf-9a29-44f3-a632-f565b341eced</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::p[4]</value>
-      <webElementGuid>aacdd864-60f8-4053-8bcf-bdf01da64c20</webElementGuid>
+      <webElementGuid>90e2feab-f19c-4e57-8369-12e90c3afb1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/preceding::p[4]</value>
-      <webElementGuid>947d0b4a-bbb9-4e21-bae4-b3f31dee548e</webElementGuid>
+      <webElementGuid>a821be40-05b3-4308-bc95-428b173e2282</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/p[2]</value>
-      <webElementGuid>d93c0bba-2fd1-4d69-8a60-7f114fb41700</webElementGuid>
+      <webElementGuid>34ea851b-227d-433a-bb92-7d567ed8d2d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '$1,19920' or . = '$1,19920')]</value>
-      <webElementGuid>362018e6-f76a-4fa9-a10b-b75db64d2998</webElementGuid>
+      <webElementGuid>0951103a-5915-407e-a279-60b3310d1ffb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

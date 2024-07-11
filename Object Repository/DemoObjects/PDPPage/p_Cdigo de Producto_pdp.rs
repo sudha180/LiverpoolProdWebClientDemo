@@ -6,15 +6,16 @@
    <elementGuidId>81e84b5f-9a6f-4003-9551-052dcf59e07e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//p[@class='m-product__information--code']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p.m-product__information--code</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class='product-header-subcontainer-information--code']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>bb0e509d-322f-4752-907e-3d48f03da46a</webElementGuid>
+      <webElementGuid>02454cbf-6ee5-449f-9821-c2c21a432564</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>m-product__information--code</value>
-      <webElementGuid>db7ebeb2-0d7b-41e6-9300-7d058ea049d6</webElementGuid>
+      <webElementGuid>2db6d8c4-6a28-409b-a209-49c6ab7c49cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Código de Producto: 1064348982</value>
-      <webElementGuid>1fc43bb3-bc97-4bd7-ad89-af4e0e9e4987</webElementGuid>
+      <webElementGuid>720de370-1075-47a1-a76f-02ef4ed39cb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/section[@class=&quot;o-product__detail&quot;]/div[@class=&quot;container o-product__mainContainer&quot;]/main[1]/div[@class=&quot;o-product__description&quot;]/p[@class=&quot;m-product__information--code&quot;]</value>
-      <webElementGuid>2a0e7448-f255-4517-97b4-03c77bbc699e</webElementGuid>
+      <webElementGuid>cbfa5315-e1e1-4a78-93f2-9acf4274e681</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/section/div/main/div[2]/p</value>
-      <webElementGuid>8609174e-f058-4055-b73f-16f7270fc4b6</webElementGuid>
+      <webElementGuid>969b5669-a224-47f2-b924-41a15ecabf59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenis Puma unisex'])[2]/following::p[1]</value>
-      <webElementGuid>4c5760c2-1052-429d-b994-58a54e6c6dd2</webElementGuid>
+      <webElementGuid>e2829a23-20f8-47e8-be57-4902777d8f01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenis'])[1]/following::p[1]</value>
-      <webElementGuid>cd3540e9-aa5e-47ab-8695-0f6adf224f0d</webElementGuid>
+      <webElementGuid>1ff24f46-090b-4f67-bcdf-8ac1375becf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Escribe una opinión'])[1]/preceding::p[1]</value>
-      <webElementGuid>58bd39ed-7631-4f49-9e62-9ff2d0f12dd6</webElementGuid>
+      <webElementGuid>74bfa210-7207-446c-bf13-c733879e5db8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver disponibilidad en tienda'])[1]/preceding::p[1]</value>
-      <webElementGuid>665e1841-4f81-4036-961d-00504f2737fa</webElementGuid>
+      <webElementGuid>c78a9cc2-6b78-4104-81fc-2b56e0fa377e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Código de Producto:']/parent::*</value>
-      <webElementGuid>7bb3255c-d0d2-408d-a977-abe23be7613e</webElementGuid>
+      <webElementGuid>14b4da8a-ad1a-4eac-b1c8-51cb8d99128f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/p</value>
-      <webElementGuid>240dcf05-3a08-4785-bb79-7b556630edbd</webElementGuid>
+      <webElementGuid>edb0dade-9b66-483d-8881-f906c4a3f5dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Código de Producto: 1064348982' or . = 'Código de Producto: 1064348982')]</value>
-      <webElementGuid>823ce436-d349-474d-ada7-7101ae5379a9</webElementGuid>
+      <webElementGuid>c702ab26-ed01-4836-ac17-1d49bfa627bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

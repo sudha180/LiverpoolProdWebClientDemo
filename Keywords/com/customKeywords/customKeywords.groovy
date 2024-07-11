@@ -106,7 +106,7 @@ class myKeywords {
 				js.executeScript("arguments[0].setAttribute('style','background: white; border: 5px solid green;');", element);
 				//js.executeScript("arguments[0].setAttribute('style', border: 5px solid green;');", element);
 			}
-			KeywordUtil.logInfo("Clicking element")
+//			KeywordUtil.logInfo("Clicking element")
 			element.click()
 			KeywordUtil.markPassed("Element has been clicked")
 		} catch (WebElementNotFoundException e) {
